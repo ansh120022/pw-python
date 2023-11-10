@@ -1,6 +1,6 @@
 from pytest import fixture
 from playwright.sync_api import sync_playwright
-from python.pages.registration import Registration
+from pages.registration import Registration
 
 
 @fixture

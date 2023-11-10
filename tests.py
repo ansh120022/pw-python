@@ -1,6 +1,6 @@
-from in_python.pages.registration import Registration
-from in_python.pages.account import Account
-from in_python.pages.game import Game
+from pages.registration import Registration
+from pages.account import Account
+from pages.game import Game
 from time import sleep
 
 
